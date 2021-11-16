@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e05c917e-e820-1073-fd45-4bc046bf3678"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Research Seminar in IT and Organizations: Economic Perspectives",
+  "course_description": "Business organizations and markets use a bewildering variety of structures to coordinate the productive activities of their stakeholders. Dramatic changes in information technology and the nature of economic competition are forcing firms to come up with new ways of organizing work. This course uses economic theory to investigate the roles of information and technology in the existing diversity of organizations and markets and in enabling the creating of new organizational forms.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.575",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
